@@ -1,0 +1,7 @@
+C:\BOOTNXT
+C:\file_lister.py
+C:\hiberfil.sys
+C:\kernel.etl
+C:\pagefile.sys
+C:\swapfile.sys
+C:\Windows10_x64_creationtool.iso
