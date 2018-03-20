@@ -3,10 +3,15 @@ This is a project which aims to identify Social-Engineering in the domain of dig
 
 ## General Purpuse
 we reffer to the issue of attackers who abuse the graphical-similiarity of strings, in order to harden the detection and the analysis of their attacks. 
+
 for example, an attacker can plant his malicious file in the next path:
+
 C:\windows\systern32\ntd11.dll
+
 this path is actualy very similiar to the legitimate system-file path:
+
 C:\windows\systern32\ntdll.dll
+
 and a security researcher (a hunter) can mistake the forged it for a legitimate file.
 
 the phenomenon of graphical-similiarity is called **homoglyphs**.
