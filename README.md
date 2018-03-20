@@ -28,5 +28,5 @@ main.py
 
 ## Authors
 
+* **Dr. Liron Allerhand** - *Advisor*
 * **Nir Rosen** - *Initial work*
-

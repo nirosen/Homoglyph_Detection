@@ -27,5 +27,5 @@ str_to_image.exe "notepad.exe   this is NOT a homoglyph. ｔһⅰѕ Ꭵｓ �
 
 ## Authors
 
+* **Dr. Liron Allerhand** - *Advisor*
 * **Nir Rosen** - *Initial work*
-
