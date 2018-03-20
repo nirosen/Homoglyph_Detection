@@ -1,0 +1,7 @@
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\bin\Release\str_to_png.exe.config
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\bin\Release\str_to_png.exe
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\bin\Release\str_to_png.pdb
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\obj\Release\str_to_png.csproj.CoreCompileInputs.cache
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\obj\Release\str_to_png.exe
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\obj\Release\str_to_png.pdb
+C:\Users\Nir Rosen\Documents\liron\str_to_png\str_to_png\obj\Release\str_to_png.csprojResolveAssemblyReference.cache
