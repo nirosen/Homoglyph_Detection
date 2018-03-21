@@ -28,7 +28,7 @@ that was created using this cool online tool:
 ## How To Run this project?
 ### usage: 
 ```
-main.py
+print-homoglyphs-permutations\main.py
 ```
 
 ## Authors
