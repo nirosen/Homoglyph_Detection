@@ -31,6 +31,10 @@ that was created using this cool online tool:
 print-homoglyphs-permutations\main.py
 ```
 
+## Project Summery
+![Alt text](project_summery.JPG?raw=true "Title")
+
+
 ## Authors
 
 * **Dr. Liron Allerhand** - *Advisor*
