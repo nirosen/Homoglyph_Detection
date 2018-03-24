@@ -32,7 +32,7 @@ print-homoglyphs-permutations\main.py
 ```
 
 ## Project Summery
-![Alt text](project_summery.JPG?raw=true "Title")
+![Alt text](@docs/project_summery.JPG?raw=true "Title")
 
 
 ## Authors
