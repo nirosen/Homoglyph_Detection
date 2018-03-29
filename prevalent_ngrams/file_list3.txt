@@ -1,0 +1,169 @@
+C:\BOOTNXT
+C:\file_list - Copy.txt
+C:\file_list.txt
+C:\file_lister.py
+C:\hiberfil.sys
+C:\kernel.etl
+C:\pagefile.sys
+C:\swapfile.sys
+C:\Windows10_x64_creationtool.iso
+C:\03d3d559011217c0c1493ee5\Microsoft.ApplicationInsights.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.ApplicationInsights.Telemetry.Services.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.VisualStudio.Telemetry.Net35.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.VS.PlatformInstaller.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.VS.PlatformInstaller.DynamicFeed.dll
+C:\03d3d559011217c0c1493ee5\Microsoft.VS.PlatformInstaller.WebDeployShim.dll
+C:\03d3d559011217c0c1493ee5\Newtonsoft.Json.dll
+C:\03d3d559011217c0c1493ee5\SecondaryInstaller.exe
+C:\03d3d559011217c0c1493ee5\SecondaryInstaller.exe.config
+C:\03d3d559011217c0c1493ee5\System.Threading.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.ApplicationInsights.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.ApplicationInsights.Telemetry.Services.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.VisualStudio.Telemetry.Net35.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.VS.PlatformInstaller.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.VS.PlatformInstaller.DynamicFeed.dll
+C:\8490e11596b2f4abd0ec3a917c\Microsoft.VS.PlatformInstaller.WebDeployShim.dll
+C:\8490e11596b2f4abd0ec3a917c\Newtonsoft.Json.dll
+C:\8490e11596b2f4abd0ec3a917c\SecondaryInstaller.exe
+C:\8490e11596b2f4abd0ec3a917c\SecondaryInstaller.exe.config
+C:\8490e11596b2f4abd0ec3a917c\System.Threading.dll
+C:\adb\4.4.2_diag_BOOT.img
+C:\adb\adb.exe
+C:\adb\AdbWinApi.dll
+C:\adb\AdbWinUsbApi.dll
+C:\adb\fastboot.exe
+C:\Android\aapt.exe
+C:\Android\adb.exe
+C:\Android\AdbWinApi.dll
+C:\Android\AdbWinUsbApi.dll
+C:\Android\aidl.exe
+C:\Android\Ancora.ops
+C:\Android\Android_Security_Intern__An_In-Depth_Guide_to_Android_s_Security_Architecture.pdf
+C:\Android\dexdump.exe
+C:\Android\dx.bat
+C:\Android\fastboot.exe
+C:\Android\llvm-rs-cc.exe
+C:\Android\N2G47Z_4Cores.img
+C:\Android\NOTICE.txt
+C:\Android\odin Multi_Downloader_v4.43.exe
+C:\Android\Odin3 v3.10.7.exe
+C:\Android\oem_info.txt
+C:\Android\recovery-clockwork-6.0.4.5-ancora.tar.md5
+C:\Android\recovery.img
+C:\Android\recovery_JS3_3.0.2-2.img
+C:\Android\source.properties
+C:\Android\toolkit_cmd.txt
+C:\Android\TWRP3_1_1_5X.img
+C:\Android\_recovery.img
+C:\Android\api\api-versions.xml
+C:\Android\lib\dx.jar
+C:\Android\renderscript\clang-include\altivec.h
+C:\Android\renderscript\clang-include\ammintrin.h
+C:\Android\renderscript\clang-include\avx2intrin.h
+C:\Android\renderscript\clang-include\avxintrin.h
+C:\Android\renderscript\clang-include\bmi2intrin.h
+C:\Android\renderscript\clang-include\bmiintrin.h
+C:\Android\renderscript\clang-include\CMakeLists.txt
+C:\Android\renderscript\clang-include\cpuid.h
+C:\Android\renderscript\clang-include\emmintrin.h
+C:\Android\renderscript\clang-include\float.h
+C:\Android\renderscript\clang-include\fma4intrin.h
+C:\Android\renderscript\clang-include\fmaintrin.h
+C:\Android\renderscript\clang-include\immintrin.h
+C:\Android\renderscript\clang-include\iso646.h
+C:\Android\renderscript\clang-include\LICENSE.TXT
+C:\Android\renderscript\clang-include\limits.h
+C:\Android\renderscript\clang-include\lzcntintrin.h
+C:\Android\renderscript\clang-include\mm3dnow.h
+C:\Android\renderscript\clang-include\mmintrin.h
+C:\Android\renderscript\clang-include\mm_malloc.h
+C:\Android\renderscript\clang-include\module.map
+C:\Android\renderscript\clang-include\nmmintrin.h
+C:\Android\renderscript\clang-include\pmmintrin.h
+C:\Android\renderscript\clang-include\popcntintrin.h
+C:\Android\renderscript\clang-include\smmintrin.h
+C:\Android\renderscript\clang-include\stdalign.h
+C:\Android\renderscript\clang-include\stdarg.h
+C:\Android\renderscript\clang-include\stdbool.h
+C:\Android\renderscript\clang-include\stddef.h
+C:\Android\renderscript\clang-include\stdint.h
+C:\Android\renderscript\clang-include\tgmath.h
+C:\Android\renderscript\clang-include\tmmintrin.h
+C:\Android\renderscript\clang-include\unwind.h
+C:\Android\renderscript\clang-include\varargs.h
+C:\Android\renderscript\clang-include\wmmintrin.h
+C:\Android\renderscript\clang-include\x86intrin.h
+C:\Android\renderscript\clang-include\xmmintrin.h
+C:\Android\renderscript\clang-include\xopintrin.h
+C:\Android\renderscript\include\rs_allocation.rsh
+C:\Android\renderscript\include\rs_atomic.rsh
+C:\Android\renderscript\include\rs_cl.rsh
+C:\Android\renderscript\include\rs_core.rsh
+C:\Android\renderscript\include\rs_debug.rsh
+C:\Android\renderscript\include\rs_element.rsh
+C:\Android\renderscript\include\rs_graphics.rsh
+C:\Android\renderscript\include\rs_math.rsh
+C:\Android\renderscript\include\rs_matrix.rsh
+C:\Android\renderscript\include\rs_mesh.rsh
+C:\Android\renderscript\include\rs_object.rsh
+C:\Android\renderscript\include\rs_program.rsh
+C:\Android\renderscript\include\rs_quaternion.rsh
+C:\Android\renderscript\include\rs_sampler.rsh
+C:\Android\renderscript\include\rs_time.rsh
+C:\Android\renderscript\include\rs_types.rsh
+C:\Android\USB_DRIVERS\androidwinusb86.cat
+C:\Android\USB_DRIVERS\androidwinusba64.cat
+C:\Android\USB_DRIVERS\android_winusb.inf
+C:\Android\USB_DRIVERS\source.properties
+C:\Android\USB_DRIVERS\amd64\NOTICE.txt
+C:\Android\USB_DRIVERS\amd64\WdfCoInstaller01009.dll
+C:\Android\USB_DRIVERS\amd64\winusbcoinstaller2.dll
+C:\Android\USB_DRIVERS\amd64\WUDFUpdate_01009.dll
+C:\Android\USB_DRIVERS\i386\NOTICE.txt
+C:\Android\USB_DRIVERS\i386\WdfCoInstaller01009.dll
+C:\Android\USB_DRIVERS\i386\winusbcoinstaller2.dll
+C:\Android\USB_DRIVERS\i386\WUDFUpdate_01009.dll
+C:\BAK\Camera\20171214_090814.jpg
+C:\BAK\Camera\20171215_203708.jpg
+C:\BAK\Camera\20171217_200500.jpg
+C:\BAK\Camera\20171217_200504.jpg
+C:\BAK\Camera\20171217_200517.jpg
+C:\BAK\Camera\20171217_200523.jpg
+C:\BAK\Camera\20171217_200529.jpg
+C:\BAK\Camera\20171217_200538.jpg
+C:\BAK\Camera\20171217_200552.jpg
+C:\BAK\Camera\20171217_200559.jpg
+C:\BAK\Camera\20171217_200606.jpg
+C:\BAK\Camera\20171217_200610.jpg
+C:\BAK\WhatsApp\Backups\chatsettingsbackup.db.crypt1
+C:\BAK\WhatsApp\Backups\wallpaper.bkup
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-14.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-15.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-16.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-17.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-18.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-19.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-20.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore-2017-12-21.1.db.crypt12
+C:\BAK\WhatsApp\Databases\msgstore.db.crypt12
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\VID-20171218-WA0000.mp4
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\Sent\.nomedia
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\Sent\VID-20171015-WA0008.mp4
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\Sent\VID-20171015-WA0009.mp4
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\Sent\VID-20171015-WA0014.mp4
+C:\BAK\WhatsApp\Media\WhatsApp Animated Gifs\Sent\VID-20171209-WA0000.mp4
+C:\BAK\WhatsApp\Media\WhatsApp Audio\Sent\.nomedia
+C:\BAK\WhatsApp\Media\WhatsApp Documents\ccs.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\ccs2017 (1).pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\DW88-4-Threadmap.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\from_3_11_0032.ipynb
+C:\BAK\WhatsApp\Media\WhatsApp Documents\HTTP Response Splitting in Node.js.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\HW2_Exercise2_Solution (3).ipynb
+C:\BAK\WhatsApp\Media\WhatsApp Documents\Lagodekhi NP – Hiking to the lake shared between Georgia and Dagestan – Georgian Tour Magazine.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\MATI-IF-2017-038 Katydid Group Hosting Trojan.DustySky on GitHub Gist Platform, July 2017.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\Michal & Or - 08.11.17.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\S45C-6e17042309150.pdf.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\seagl-2017.pdf
+C:\BAK\WhatsApp\Media\WhatsApp Documents\SYMC_300659.pdf
