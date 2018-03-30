@@ -6,6 +6,9 @@ from nltk.util import ngrams
 # constants
 BREAKING_CHAR = '\\'
 TOP_STRINGS = 100
+INPUT_PATHES_FILE = "file_list_win.txt"
+OUTPUT_NGRAMS_FILE = "output_ngrams.txt"
+
 
 def get_prevalent_strings(input_file):
     cnt = Counter()
@@ -46,8 +49,15 @@ def get_prevalent_ngrams(strings_counter, TOP_STRINGS):
     return total_ngrams_counter
 
 if __name__ == '__main__':
-    strings_counter, i = get_prevalent_strings("file_list_win.txt")
+    strings_counter, i = get_prevalent_strings(INPUT_PATHES_FILE)
     total_ngrams_counter = get_prevalent_ngrams(strings_counter, TOP_STRINGS)
-    common_ngrams = total_ngrams_counter.most_common(100)
-    print(common_ngrams)
-    print('iterated: ' + str(i))
+
+    print('number of pathes rows: ' + str(i))
+    print('number of ngrams counter values: ' + str(sum(total_ngrams_counter.values())))
+    print('number of ngrams counter different values: ' + str(len(total_ngrams_counter)))
+    print('## TOP 100 most common ngrams:')
+    print(total_ngrams_counter.most_common(100))
+
+    with open(OUTPUT_NGRAMS_FILE, 'w') as output_file:
+        for k,v in total_ngrams_counter.most_common(100):
+            output_file.write("{}\t{}\t{}\n".format(k, BREAKING_CHAR, v))
