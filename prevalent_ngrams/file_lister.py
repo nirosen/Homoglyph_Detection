@@ -1,10 +1,12 @@
 import os
 
-root_folder_path = 'C:\\'
+# root_folder_path = 'C:\\'
+root_folder_path = 'C:\\Windows\\'
+
 # The result file can't be in a subfoldr of the root folder, but it may be in the root folder itself.
 result_file = 'file_list3.txt'
 forbiden_substrings = {'$'}
-max_dirs_to_scan = 1000
+max_dirs_to_scan = 10000
 
 def save_filenames(folder_path, filenames, result_file, forbiden_substrings='', write_method='a', line_break='\n'):
     with open(result_file, write_method) as file_:
