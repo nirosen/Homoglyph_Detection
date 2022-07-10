@@ -30,12 +30,3 @@ that was created using this cool online tool:
 ```
 print-homoglyphs-permutations\main.py
 ```
-
-## Project Summery
-![Alt text](@docs/project_summery.JPG?raw=true "Title")
-
-
-## Authors
-
-* **Dr. Liron Allerhand** - *Advisor*
-* **Nir Rosen** - *Initial work*
